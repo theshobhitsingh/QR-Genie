@@ -1,4 +1,4 @@
-**QR Genie**
+<b>**QR Genie**</b>
 
 Welcome to QR Genie - Your QR Code Generator!
 
