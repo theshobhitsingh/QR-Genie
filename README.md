@@ -1,6 +1,6 @@
 <b>**QR Genie**</b>
 
-Welcome to QR Genie - Your QR Code Generator!
+Welcome to QR Genie - Your ultimate QR Code Generator!
 
 QR Genie is a simple yet powerful web application that allows you to effortlessly generate QR codes for any text or link. Whether you need to share a website URL, a piece of text, or any other information quickly and conveniently, QR Genie has got you covered.
 
